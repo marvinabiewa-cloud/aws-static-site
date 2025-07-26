@@ -47,6 +47,3 @@ http://marvinabiewa.com.s3-website.us-east-2.amazonaws.com/
 - How to set public access policies safely
 - Best practices for documenting and sharing cloud projects
 
-## 📜 License
-
-This project is licensed under the MIT License.
