@@ -40,8 +40,6 @@ aws-static-site/
 
 [http://marvinabiewa.com.s3-website-us-east-1.amazonaws.com](http://marvinabiewa.com.s3-website-us-east-1.amazonaws.com)
 
-*(Replace with your actual domain once deployed)*
-
 ## 🧠 What I Learned
 
 - How to configure S3 for static site hosting
