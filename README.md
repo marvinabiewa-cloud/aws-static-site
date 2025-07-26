@@ -38,7 +38,7 @@ aws-static-site/
 
 ## 🔗 Live Demo
 
-[http://marvinabiewa.com.s3-website-us-east-1.amazonaws.com](http://marvinabiewa.com.s3-website-us-east-1.amazonaws.com)
+http://marvinabiewa.com.s3-website.us-east-2.amazonaws.com/
 
 ## 🧠 What I Learned
 
