@@ -38,7 +38,7 @@ aws-static-site/
 
 ## 🔗 Live Demo
 
-[https://yourdomain.com](https://yourdomain.com)
+[http://marvinabiewa.com.s3-website-us-east-1.amazonaws.com](http://marvinabiewa.com.s3-website-us-east-1.amazonaws.com)
 
 *(Replace with your actual domain once deployed)*
 
