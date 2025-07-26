@@ -45,7 +45,6 @@ http://marvinabiewa.com.s3-website.us-east-2.amazonaws.com/
 - How to configure S3 for static site hosting
 - How to manage custom domains with Route 53
 - How to set public access policies safely
-- The basics of SSL and CDN with CloudFront
 - Best practices for documenting and sharing cloud projects
 
 ## 📜 License
